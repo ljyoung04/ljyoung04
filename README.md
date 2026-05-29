@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ljyoung04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mint-kangaroo-c89.notion.site/2e2865f13ce2808fb2ccd9e8241a14bc?source=copy_link)
+
 <!--
 **ljyoung04/ljyoung04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
